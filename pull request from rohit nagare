@@ -1,0 +1,23 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>this is SEO friendly triel website and information about future engineering scopes</title>
+</head>
+<body>
+    <header>future of engineering</header>
+    <main><section><h1>why engineering is important</h1>
+        <article><p> is a way of living for mankind ever since human being
+             existed we lived only through evolving ourselves by watching environmental things. and we'll continue to grow further more 
+            and that's why we need skilled enginners to make mankind more suitable to live in harmony </p>
+         </article>
+    </section>
+    <aside>become enginner to become all rounder</aside>
+    <div>this is division to make image 
+        <a href="https://google.com" >google</a>
+    </div>
+    </main>
+
+</body>
+</html>
